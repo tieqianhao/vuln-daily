@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "游戏引擎与平台": [
+      "unity", "unreal engine", "unrealengine", "cocos", "godot", "cryengine",
+      "defold", "photon", "steam", "epic games", "valve", "anti-cheat",
+      "cocos2d"
+    ],
+    "内容与多媒体组件": [
+      "ffmpeg", "opencv", "pillow", "imagemagick", "libvips", "gstreamer",
+      "live555", "exiftool", "libheif", "libjpeg", "libpng", "openexr",
+      "video codec", "webp", "hevc", "av1"
+    ],
+    "AI 运行时": [
+      "tensorflow", "pytorch", "onnx", "onnxruntime", "tensorrt", "transformers", "huggingface"
+    ],
+    "高频基础设施": [
+      "openssl", "log4j", "spring", "nginx", "tomcat", "sqlite", "zlib", "curl",
+      "glibc", "linux kernel", "windows", "chrome", "electron"
+    ]
+  }
+}
